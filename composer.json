@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "phpmailer/phpmailer": "^6.2",
+        "phpoffice/phpspreadsheet": "^1.16",
+        "verot/class.upload.php": "^2.1"
+    }
+}

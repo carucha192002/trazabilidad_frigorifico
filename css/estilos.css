@@ -1,0 +1,277 @@
+.perfil{
+    position: absolute;
+    margin-top: -20px;
+    margin-left:230px;
+    color: blue;
+}
+#cambio{
+    position: absolute;
+    margin-top:5px;
+    margin-left:920px;
+
+}
+.circulo_imagen{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.div_imagen{
+    left:50%;
+    margin-left:-75px;
+    position:absolute;
+    top:100px
+}
+.div_imagen>img{
+    border:3px solid rgb(13, 188, 241);
+    float:left;}
+.imagen_nav{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 75px;
+    height: 75px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.info_nombre{
+    display:inline-block;
+        padding:20px 20px 15px 15px
+}
+
+.imagen_cambiar_avatar{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 75px;
+    height: 75px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar1{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar3{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_js{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_especies{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_clasificacion{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_camara{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_productor{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_corral{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_procedencia{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_destino{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_chofer{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_matarife{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_transporte{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_conservacion{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+.avatar_tropas{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    display: inline-block;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+    border:3px solid rgb(13, 188, 241);
+    
+}
+

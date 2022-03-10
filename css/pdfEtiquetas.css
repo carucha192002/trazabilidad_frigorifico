@@ -1,0 +1,60 @@
+@page {
+  margin: 0mm;
+  margin-header: 0mm;
+  margin-footer: 0mm;
+  
+ 
+}
+address{
+  font-size: 9px; 
+  text-align: center;
+}
+body {
+  font-size: 5px; 
+  font-family: serif;
+  
+}
+section {
+  margin-top: 5px;
+  text-align: center;
+
+}
+table .servic {
+  text-align: center;
+}
+table td.servic{
+  vertical-align: top;
+}
+table th {
+  font-size: 9px;
+}
+table .service {
+  text-align: center;
+}
+table td.service{
+  vertical-align: top;
+}
+table tr:nth-child(2n-1) td {
+  font-size: 12px;
+}
+#logo {
+  text-align: center; 
+}
+#logo img {
+  width: 100px;
+  height: 100px;
+
+}
+h2 {
+  margin-top: 0mm;
+  font-size: 2.0em;
+ 
+  text-align: center;
+
+  
+}
+ span {
+
+  font-size: 10px;
+}
+
